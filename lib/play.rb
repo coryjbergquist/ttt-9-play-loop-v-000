@@ -35,10 +35,5 @@ def turn(board)
   end
 end
 
-def display_board(board)
-  game = 0
- while game < 9 
- turn
- end
-  
-end
+# Define your play method below
+
