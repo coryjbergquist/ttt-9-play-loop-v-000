@@ -37,3 +37,10 @@ end
 
 # Define your play method below
 
+def play(board)
+  game = 0
+  
+  while game = 0
+turn
+end
+end
